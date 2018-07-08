@@ -1,0 +1,25 @@
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Debug\YXtools.exe
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Debug\YXtools.pdb
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Debug\YXtools.xml
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.YXmain.resources
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.Resources.resources
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.vbproj.GenerateResource.Cache
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.exe
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.xml
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Debug\YXtools.pdb
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Debug\YXtools.exe.manifest
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Debug\YXtools.application
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Debug\YXtools.exe
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Debug\YXtools.pdb
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Debug\YXtools.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.Resources.resources
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.YXmain.resources
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.vbproj.GenerateResource.Cache
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.TrustInfo.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.exe.manifest
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.application
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.exe
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Debug\YXtools.pdb

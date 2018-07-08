@@ -1,0 +1,30 @@
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Release\YXtools.exe.manifest
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Release\YXtools.application
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Release\YXtools.exe
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Release\YXtools.pdb
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\bin\Release\YXtools.xml
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.Resources.resources
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.YXmain.resources
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.vbproj.GenerateResource.Cache
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.TrustInfo.xml
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.exe.manifest
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.application
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.exe
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.xml
+C:\Users\Zizag\AppData\Local\Temporary Projects\YXtools\obj\Release\YXtools.pdb
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.exe
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.pdb
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Release\YXtools.exe.manifest
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Release\YXtools.application
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Release\YXtools.exe
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Release\YXtools.pdb
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\bin\Release\YXtools.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.Resources.resources
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.YXmain.resources
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.vbproj.GenerateResource.Cache
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.TrustInfo.xml
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.exe.manifest
+C:\Users\Zizag\Documents\Visual Studio 2008\Projects\YXtools\YXtools\obj\Release\YXtools.application
